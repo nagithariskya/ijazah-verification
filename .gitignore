@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+# Berisi data pribadi (nama, tgl lahir, NIM, foto) - JANGAN dipublikasikan
+data/samples/*
+!data/samples/.gitkeep

@@ -1,0 +1,11 @@
+01_HighQuality_Enhanced.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+02_LowContrast.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+03_Blurred.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+04_HighNoise.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+05_LowResolution_Upsampled.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+06_Faded_Underexposed.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+07_ColorShift_WarmTint.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+08_JPEGCompression_Artifacts.jpg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+09_CombinedDegradation.jpeg | asli=PRESENT | tanpa_rektor=NOT PRESENT | tanpa_dekan=NOT PRESENT | tanpa_keduanya=NOT PRESENT
+
+Akurasi deteksi tanda tangan: 36/36 = 100.0%

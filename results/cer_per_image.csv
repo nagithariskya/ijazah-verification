@@ -1,0 +1,17 @@
+method,01_HighQuality_Enhanced.jpg,02_LowContrast.jpg,03_Blurred.jpg,04_HighNoise.jpg,05_LowResolution_Upsampled.jpg,06_Faded_Underexposed.jpg,07_ColorShift_WarmTint.jpg,08_JPEGCompression_Artifacts.jpg,09_CombinedDegradation.jpeg
+bgnorm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bgnorm_up3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+bgnorm_up3_otsu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+clahe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+gamma,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+gaussian_clahe,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+median,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+median_bgnorm_up3_otsu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+nlm,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+none_gray,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+otsu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+unsharp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+up3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+up3_clahe_otsu,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+up3_nlm_clahe_sharp,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+adaptive,0.0,0.0,0.06666666666666667,1.0,0.0,0.0,0.0,0.0,0.0

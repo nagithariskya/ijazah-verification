@@ -1,0 +1,47 @@
+done 01_HighQuality_Enhanced.jpg
+done 02_LowContrast.jpg
+done 03_Blurred.jpg
+done 04_HighNoise.jpg
+done 05_LowResolution_Upsampled.jpg
+done 06_Faded_Underexposed.jpg
+done 07_ColorShift_WarmTint.jpg
+done 08_JPEGCompression_Artifacts.jpg
+done 09_CombinedDegradation.jpeg
+                        mean_CER  exact_match  worst_CER  mean_sec  mean_CER_%
+method                                                                        
+bgnorm                    0.0000            9        0.0    0.1520        0.00
+bgnorm_up3                0.0000            9        0.0    0.2675        0.00
+bgnorm_up3_otsu           0.0000            9        0.0    0.1728        0.00
+clahe                     0.0000            9        0.0    0.1453        0.00
+gamma                     0.0000            9        0.0    0.1432        0.00
+gaussian_clahe            0.0000            9        0.0    0.1468        0.00
+median                    0.0000            9        0.0    0.1501        0.00
+median_bgnorm_up3_otsu    0.0000            9        0.0    0.1751        0.00
+nlm                       0.0000            9        0.0    0.1945        0.00
+none_gray                 0.0000            9        0.0    0.1496        0.00
+otsu                      0.0000            9        0.0    0.1422        0.00
+unsharp                   0.0000            9        0.0    0.1459        0.00
+up3                       0.0000            9        0.0    0.2500        0.00
+up3_clahe_otsu            0.0000            9        0.0    0.1635        0.00
+up3_nlm_clahe_sharp       0.0000            9        0.0    0.7265        0.00
+adaptive                  0.1185            7        1.0    0.1335       11.85
+
+CER per citra (baris = metode):
+image                   01_HighQuality_Enhanced.jpg  02_LowContrast.jpg  03_Blurred.jpg  04_HighNoise.jpg  05_LowResolution_Upsampled.jpg  06_Faded_Underexposed.jpg  07_ColorShift_WarmTint.jpg  08_JPEGCompression_Artifacts.jpg  09_CombinedDegradation.jpeg
+method                                                                                                                                                                                                                                                         
+bgnorm                                          0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+bgnorm_up3                                      0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+bgnorm_up3_otsu                                 0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+clahe                                           0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+gamma                                           0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+gaussian_clahe                                  0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+median                                          0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+median_bgnorm_up3_otsu                          0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+nlm                                             0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+none_gray                                       0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+otsu                                            0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+unsharp                                         0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+up3                                             0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+up3_clahe_otsu                                  0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+up3_nlm_clahe_sharp                             0.0                 0.0             0.0               0.0                             0.0                        0.0                         0.0                               0.0                          0.0
+adaptive                                        0.0                 0.0             6.7             100.0                             0.0                        0.0                         0.0                               0.0                          0.0
