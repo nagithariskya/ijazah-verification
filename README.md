@@ -44,7 +44,7 @@ Nomor Ijazah                Signature Detection (connected components)
 
 ### Instalasi
 ```bash
-git clone <URL-REPO-ANDA>
+git clone <https://github.com/nagithariskya/ijazah-verification.git>
 cd ijazah-verification
 python -m venv .venv && source .venv/bin/activate     # Windows: .venv\Scripts\activate
 pip install -r requirements.txt
